@@ -6,7 +6,7 @@ Based on [Diagram renderer](https://github.com/laingsimon/render-diagram).
 
 ## Screenshot
 
-![screenshot](https://github.com/onukura/gitbcket-drawio-plugin/blob/assets/screenshot.png?raw=true)
+![screenshot](https://github.com/onukura/gitbucket-drawio-plugin/raw/assets/screenshot.png)
 
 ## Install
 
